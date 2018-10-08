@@ -1,0 +1,33 @@
+            body{
+            background-image: url("https://foodimentaryguy.files.wordpress.com/2011/06/background-pattern.gif");
+            background-repeat: no-repeat;
+               
+                }
+		       #head{
+              font-size: 100px;
+              font-family: 'Oregano',cursive;
+              text-align: center;
+			        color:#a10202;
+            }
+			     .nav-pills {
+			        font-size: 29px;
+			        font-family: 'Boogaloo';
+			      }
+			      .text-info {
+			        font-size: 25px;
+			        font-family: 'Oregano',cursive;
+			        color: #ad6c44
+			      }
+			      .text-danger {
+			        font-size: 20px;
+			        font-family: 'Cookie';
+			        color: #dfb175;
+			      }
+			      .add_to_cart {
+			        font-size: 20px;
+			        font-family: 'Boogaloo';
+			        color: #FEFEFA;
+			      }
+			      .btn {
+			        background-color : #ad6c44;
+			      } 
